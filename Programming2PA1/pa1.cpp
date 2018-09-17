@@ -5,6 +5,7 @@
 //Since I coded this project in Visual Studio, I might not have #include<stdfix.h>.
 using namespace std;
 
+
 int main() {
 	int n = 0;
 	cout << "Enter an odd number that is larger than 2 and smaller than 15:";
